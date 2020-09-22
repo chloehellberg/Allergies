@@ -1,0 +1,11 @@
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.csprojAssemblyReference.cache
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.AssemblyInfoInputs.cache
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.AssemblyInfo.cs
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\bin\Debug\netcoreapp2.2\Allergies.deps.json
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\bin\Debug\netcoreapp2.2\Allergies.runtimeconfig.json
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\bin\Debug\netcoreapp2.2\Allergies.runtimeconfig.dev.json
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\bin\Debug\netcoreapp2.2\Allergies.dll
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\bin\Debug\netcoreapp2.2\Allergies.pdb
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.dll
+C:\Users\bnilles\Desktop\epi\Allergies\Allergies.Solution\Allergies\obj\Debug\netcoreapp2.2\Allergies.pdb
